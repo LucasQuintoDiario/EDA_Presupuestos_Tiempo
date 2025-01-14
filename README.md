@@ -44,6 +44,7 @@ Cada dataset contiene información sobre las actividades realizadas por la pobla
 El repositorio contiene los siguientes archivos:
 
 - `EDA_Presupuestos_Tiempo.ipynb`: Notebook de Jupyter con el análisis exploratorio de datos, visualizaciones y resultados.
+- `EDA_Presupuestos_Tiempo.pdf`: Presentación con la explicación resumida de los datos utilizados y graficos más relevantes del contraste de hipótesis.
 - `data/`: Carpeta que contiene los 7 datasets utilizados para el análisis.
 - `img/`: Carpeta conimagenes utilizadas en el Notebook
 - `README.md`: Archivo de documentación con información sobre el proyecto.
@@ -54,7 +55,7 @@ El repositorio contiene los siguientes archivos:
 
 1. **Brecha de género en tareas del hogar**: La diferencia en el tiempo dedicado a las tareas del hogar entre hombres y mujeres muestra una tendencia decreciente, aunque persiste una brecha significativa.
 
-2. **Disminución del tiempo dedicado a la religión**: El tiempo invertido en actividades religiosas ha disminuido considerablemente desde 1993.
+2. **Disminución del tiempo dedicado a la religión**: El tiempo invertido y el número de personas que participan en actividades religiosas ha disminuido considerablemente desde 1993.
 
 3. **Vida social y edad**: Los jóvenes dedican consistentemente más tiempo a la vida social en comparación con los grupos de mayor edad, aunque esta tendencia ha variado ligeramente en función de los períodos estudiados.
 
